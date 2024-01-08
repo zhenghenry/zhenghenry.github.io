@@ -9,15 +9,22 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Varian Office 325</p>
+    <p>382 Via Pueblo Mall</p>
+    <p>Stanford, CA 94305</p>
 
 news: false #true  # includes a list of news items
 latest_posts: false #true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I strive to better understand the history of the Universe, from the beginning of Inflation to the late time evolution of galaxies and dark matter halos. I am also constantly looking for ways statistical methods and computational techniques can be applied to cosmology such as new sampling algorithms for parameter inference, building emulators of cosmological models with machine learning, Hamiltonian motivated optimizers, etc.
+
+I'm currently a physics graduate student at Stanford University. I finished my undergraduate degree at the University of Chicago, attaining a bachelor of arts in physics with honors. In the past I have also worked in experimental high energy physics and material science.
+
+You can find my most up to date CV [here](cv/Henry_Zheng_resume.pdf).
+
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
