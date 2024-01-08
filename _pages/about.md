@@ -22,7 +22,7 @@ I strive to better understand the history of the Universe, from the beginning of
 
 I'm currently a physics graduate student at Stanford University. I completed my undergraduate degree at the University of Chicago, with a bachelor of arts in physics. In the past I have also worked in experimental high energy physics and material science.
 
-You can find my most up to date CV [here](cv/Henry_Zheng_resume.pdf).
+You can find my most up to date CV [here](assets/pdf/Henry_Zheng_Resume.pdf).
 
 
 
