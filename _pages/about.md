@@ -18,9 +18,9 @@ latest_posts: false #true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I strive to better understand the history of the Universe, from the beginning of Inflation to the late time evolution of galaxies and dark matter halos. I am also constantly looking for ways statistical methods and computational techniques can be applied to cosmology such as new sampling algorithms for parameter inference, building emulators of cosmological models with machine learning, Hamiltonian motivated optimizers, etc.
+I strive to better understand the history of the Universe, from the beginning of Inflation to the late time evolution of galaxies and dark matter halos. I am also constantly looking for ways statistical methods and computational techniques can be applied to cosmology such as new sampling algorithms for parameter inference, building emulators of cosmological models with machine learning, Hamiltonian motivated optimizers.
 
-I'm currently a physics graduate student at Stanford University. I finished my undergraduate degree at the University of Chicago, attaining a bachelor of arts in physics with honors. In the past I have also worked in experimental high energy physics and material science.
+I'm currently a physics graduate student at Stanford University. I completed my undergraduate degree at the University of Chicago, with a bachelor of arts in physics. In the past I have also worked in experimental high energy physics and material science.
 
 You can find my most up to date CV [here](cv/Henry_Zheng_resume.pdf).
 
