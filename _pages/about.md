@@ -16,7 +16,7 @@ profile:
 news: false #true  # includes a list of news items
 latest_posts: false #true  # includes a list of the newest posts
 selected_papers: false #true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false #true  # includes social icons at the bottom of the page
 ---
 I strive to better understand the history of the Universe, from the beginning of Inflation to the late time evolution of galaxies and dark matter halos. I am also constantly looking for ways statistical methods and computational techniques can be applied to cosmology such as new sampling algorithms for parameter inference, building emulators of cosmological models with machine learning, Hamiltonian motivated optimizers.
 
