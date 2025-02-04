@@ -2,5 +2,7 @@ github_users:
   - zhenghenry
 
 github_repos:
-  - dbraganca/python-integer-powers
+  - zhenghenry/integer-powers
   - YDonath/EFTofLSSFisher
+  - zhenghenry/LikelihoodRatioStability
+  - zhenghenry/milliQan

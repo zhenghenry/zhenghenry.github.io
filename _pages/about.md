@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://sitp.stanford.edu/people/students'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://sitp.stanford.edu/people/students'>SITP</a>
 
 profile:
   align: right
