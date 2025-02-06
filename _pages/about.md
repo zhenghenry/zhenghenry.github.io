@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://sitp.stanford.edu/people/henry-zheng'>Graduate Researcher at SITP</a>
+subtitle: <a href='https://sitp.stanford.edu/people/henry-zheng'>Ph.D. Student at SITP</a>
 
 profile:
   align: right
